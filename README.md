@@ -2,8 +2,7 @@
 cd capfas-df
 pip install -r requirements.txt
 
-2)Download the Enron Email Dataset from https://www.kaggle.com/datasets/wcukierski/
-enron-email-dataset (approximately 430 MB). Place the extracted emails.csv in the
+2)Download the Enron Email Dataset from https://www.kaggle.com/datasets/wcukierski/enron-email-dataset (approximately 430 MB). Place the extracted emails.csv in the
 project root directory before running any scripts.
 
 3)python enron_loader.py --target kaminski -v
